@@ -1,0 +1,36 @@
+h1{
+    color: brown;
+    text-align: right;
+}
+h2{
+    color: aqua;
+    font-size: larger;
+    font-style: oblique;
+    text-align: right;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/K0F1lUFqKHPsrMsbBiMKoqAj0S-FU0DirSYS6wIKvDVNYO5g6hgMb5r7d46WJ4-sZ6KF38c8xlgVo-TODQy61GW99ra5grRx4xPYmV8=s634);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h6{
+    color: antiquewhite;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: inherit;
+    padding: inherit;
+
+}
+h3{
+    color: aliceblue;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: lighter;
+    text-align: center;
+}
